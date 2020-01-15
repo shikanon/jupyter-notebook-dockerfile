@@ -26,4 +26,4 @@ EXPOSE 139
 EXPOSE 445
 EXPOSE 22
 
-CMD["web-terminal", "--port", "8088"]
+CMD ["web-terminal", "--port", "8088"]
